@@ -26,9 +26,11 @@
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MOHANX-0001&show_icons=true&theme=github_dark&rank_icon=github)
+## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MOHANX-0001&layout=compact&theme=github_dark)
+<img src="https://github-readme-stats.vercel.app/api?username=MOHANX-0001&show_icons=true&theme=github_dark" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOHANX-0001&layout=compact&theme=github_dark" />
 
 ## 📂 Projects
 
