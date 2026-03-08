@@ -28,17 +28,25 @@
 
 ## 📂 Projects
 
-### 📚 Library Management System
+### ✅ Java To-Do List App
+A console-based task manager built with Java that supports task priorities, categories, search, statistics, and file persistence.
 
+🔗 https://github.com/MOHANX-0001/Java-ToDo-List-App
+
+### 📚 Library Management System
 A Java-based library system with authentication, book issuing/returning, search system, fine calculation, and transaction tracking.
 
-### 🎓 Student Management System
+🔗 https://github.com/MOHANX-0001/Library-Management-System
 
+### 🎓 Student Management System
 Console-based application to manage student records using Java.
 
-### 🏦 Java Bank System
+🔗 https://github.com/MOHANX-0001/Student-Management-System
 
+### 🏦 Java Bank System
 A banking simulation system that allows users to deposit, withdraw, and manage accounts.
+
+🔗 https://github.com/MOHANX-0001/Java-Bank-System
 
 ---
 
