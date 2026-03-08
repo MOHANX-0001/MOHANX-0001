@@ -27,7 +27,10 @@
 
 ---
 
-## 🚀 Featured Projects
+## 📚 Currently Learning
+
+- Data Structures and Algorithms
+- Java Backend Development
 
 ---
 
