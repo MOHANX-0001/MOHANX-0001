@@ -18,11 +18,16 @@
 
 ## 🧠 Technologies I Use
 
-* Java
-* Object-Oriented Programming (OOP)
-* File Handling
-* Git & GitHub
-* CLI Applications
+- Java
+- Object-Oriented Programming (OOP)
+- File Handling
+- Git & GitHub
+- Command Line Applications
+- Basic Data Structures
+
+---
+
+## 🚀 Featured Projects
 
 ---
 
