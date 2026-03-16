@@ -14,6 +14,12 @@
 
 ---
 
+## 📈 Contribution Graph
+
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=MOHANX-0001&theme=tokyo-night)
+
+---
+
 ## 👨‍💻 About Me
 
 * 🎓 Computer Science Student
