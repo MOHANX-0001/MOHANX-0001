@@ -16,14 +16,9 @@
 
 ---
 
-## 🧠 Technologies I Use
+## 🧠 Tech Stack
 
-- Java
-- Object-Oriented Programming (OOP)
-- File Handling
-- Git & GitHub
-- Command Line Applications
-- Basic Data Structures
+![Tech Stack](https://skillicons.dev/icons?i=java,python,js,html,css,mysql,git,github,vscode)
 
 ---
 
