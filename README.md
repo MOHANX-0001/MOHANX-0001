@@ -6,20 +6,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Mohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=MOHANX-0001&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MOHANX-0001&layout=compact&theme=tokyonight)
-
----
-
-## 📈 Contribution Graph
-
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=MOHANX-0001&theme=tokyo-night)
-
----
-
 ## 👨‍💻 About Me
 
 * 🎓 Computer Science Student
@@ -33,6 +19,20 @@
 ## 🧠 Tech Stack
 
 ![Tech Stack](https://skillicons.dev/icons?i=java,python,js,html,css,mysql,git,github,vscode)
+
+---
+
+## 📊 GitHub Stats
+
+![Mohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=MOHANX-0001&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MOHANX-0001&layout=compact&theme=tokyonight)
+
+---
+
+## 📈 Contribution Graph
+
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=MOHANX-0001&theme=tokyo-night)
 
 ---
 
