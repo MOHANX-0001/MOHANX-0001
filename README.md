@@ -1,8 +1,16 @@
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:1f4037,100:99f2c8&height=200&section=header&text=Mohan%20Pawar&fontSize=40&fontColor=ffffff)
 # Hi 👋 I'm Mohan Pawar
 
-💻 Java Developer | Computer Science Student
+💻 Java Backend Developer | Computer Science Student
 🚀 Passionate about building real-world Java applications
+
+---
+
+## 📊 GitHub Stats
+
+![Mohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=MOHANX-0001&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MOHANX-0001&layout=compact&theme=tokyonight)
 
 ---
 
