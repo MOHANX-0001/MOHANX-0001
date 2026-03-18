@@ -52,9 +52,11 @@
 ---
 
 ### Spring Boot REST API
-🔹User Authentication (JWT)
-🔹CRUD Operations
-🔹MySQL Database Integration
+🔹 Features:
+- User Authentication (JWT) 
+- CRUD Operations 
+- MySQL Database Integration
+  
 🔗 https://github.com/MOHANX-0001/library-management-springboot
 
 ---
