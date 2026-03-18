@@ -46,6 +46,19 @@
 
 ## 💼 Projects
 
+### Portfolio Website
+🔗https://mohanx-0001.github.io/portfolio/
+
+---
+
+### Spring Boot REST API
+🔹User Authentication (JWT)
+🔹CRUD Operations
+🔹MySQL Database Integration
+🔗 https://github.com/MOHANX-0001/library-management-springboot
+
+---
+
 ### ✅ Java To-Do List App
 🔹 Console-based task manager with advanced features  
 🔹 Features:
