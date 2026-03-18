@@ -7,7 +7,7 @@
 
 ---
 
-## 🚀 About Me
+## 🧭 About Me
 
 - 🎓 Computer Science Student
 - ☕ Currently focused on **Java Backend Development**
