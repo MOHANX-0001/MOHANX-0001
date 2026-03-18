@@ -9,7 +9,6 @@
 
 ## 🧭 About Me
 
-- 🎓 Computer Science Student
 - ☕ Currently focused on **Java Backend Development**
 - 🧠 Strong in **Object-Oriented Programming (OOP)**
 - 🛠 Building real-world projects to sharpen backend skills
@@ -118,7 +117,7 @@
 ## 📫 Contact Me
 
 📧 Email: mohanpawarx1010@gmail.com
-🔗 LinkedIn: www.linkedin.com/in/mohan-pawar-dev
+🔗 LinkedIn:  www.linkedin.com/in/mohan-pawar-dev
 
 ---
 
