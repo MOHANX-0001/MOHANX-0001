@@ -71,6 +71,7 @@ A banking simulation system that allows users to deposit, withdraw, and manage a
 
 📧 Email: [mohanpawarx1010@gmail.com](mailto:mohanpawarx1010@gmail.com)
 📷 Instagram: mohanx_4912
+   linkedin: https://www.linkedin.com/in/mohan-pawar-7ba025348/
 
 ## 🐍 Contribution Snake
 
