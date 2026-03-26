@@ -54,14 +54,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MOHANX-0001&theme=algolia&no-frame=true&margin-w=10" />
-</p>
-
----
-
 ## 📈 Contribution Graph
 ![Graph](https://github-readme-activity-graph.vercel.app/graph?username=MOHANX-0001&theme=tokyo-night&hide_border=true)
 
