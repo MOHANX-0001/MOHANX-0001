@@ -49,7 +49,15 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=MOHANX-0001&theme=tokyonight&hide_border=true" />
+  <img width="60%" src="https://streak-stats.demolab.com?user=MOHANX-0001&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MOHANX-0001&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
