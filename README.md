@@ -44,8 +44,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MOHANX-0001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOHANX-0001&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MOHANX-0001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" />
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MOHANX-0001&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
 
 <p align="center">
@@ -82,10 +82,6 @@
 ### 📚 Library Management System
 > Java-based system for managing books & users
 
-- User authentication  
-- Book issue/return  
-- Fine calculation  
-
 🔗 https://github.com/MOHANX-0001/Library-Management-System
 
 ---
@@ -93,24 +89,16 @@
 ### ✅ Java To-Do List App
 > Advanced console-based task manager
 
-- Priority & categories  
-- Search & filtering  
-- File persistence  
-
 🔗 https://github.com/MOHANX-0001/Java-ToDo-List-App
 
 ---
 
 ### 🎓 Student Management System
-> Manage student records with CRUD operations
-
 🔗 https://github.com/MOHANX-0001/Student-Management-System
 
 ---
 
 ### 🏦 Java Bank System
-> Banking simulation system
-
 🔗 https://github.com/MOHANX-0001/Java-Bank-System
 
 ---
