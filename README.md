@@ -1,124 +1,146 @@
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:1f4037,100:99f2c8&height=200&section=header&text=Mohan%20Pawar&fontSize=40&fontColor=ffffff)
 
-# 👋 Hi, I'm Mohan Pawar
-💻 Java Backend Developer | 🎓 Computer Science Student  
-🚀 Passionate about building scalable, real-world applications
+<h1 align="center">Hi 👋, I'm Mohan Pawar</h1>
+
+<h3 align="center">
+💻 Java Backend Developer | 🎓 Computer Science Student | 🚀 Future Software Engineer
+</h3>
 
 ---
 
-## 🧭 About Me
-- ☕ Currently focused on **Java Backend Development**
-- 🧠 Strong in **Object-Oriented Programming (OOP)**
-- 🛠 Building real-world projects to sharpen backend skills
-- 🤝 Open to **internships & entry-level Java Developer roles**
-- 🎯 Goal: Land a backend developer role building scalable Java/Spring Boot applications
+## 🚀 About Me
+- ☕ Focused on **Java Backend Development**
+- 🧠 Strong in **OOP & Problem Solving**
+- 🛠 Building real-world scalable projects
+- 🤝 Open to **Internships & Entry-Level Roles**
+- 🎯 Goal: Become a **Backend Engineer (Java + Spring Boot)**
+
+---
+
+## ⚡ Typing Animation
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Java+Backend+Developer;Spring+Boot+Learner;DSA+Enthusiast;Building+Real+Projects;Future+Software+Engineer" />
+</p>
 
 ---
 
 ## 🧰 Tech Stack
-![Tech Stack](https://skillicons.dev/icons?i=java,python,js,html,css,mysql,git,github,vscode)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,python,js,html,css,mysql,git,github,vscode" />
+</p>
+
+---
+
+## 🏆 Badges
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-Expert-red?style=for-the-badge&logo=java" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-Learning-brightgreen?style=for-the-badge&logo=springboot" />
+  <img src="https://img.shields.io/badge/DSA-Active-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-orange?style=for-the-badge&logo=github" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-![Mohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=MOHANX-0001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MOHANX-0001&layout=compact&theme=tokyonight&hide_border=truestreak-stats.demolab.com)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MOHANX-0001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOHANX-0001&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=MOHANX-0001&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=MOHANX-0001&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-## 📈 Contribution Activity
+## 📈 Contribution Graph
 ![Graph](https://github-readme-activity-graph.vercel.app/graph?username=MOHANX-0001&theme=tokyo-night&hide_border=true)
 
 ---
 
 ## 📚 Currently Learning
 - Data Structures & Algorithms (DSA)
-- Java Backend Development (Spring Boot 🚀)
+- Spring Boot & REST APIs
+- System Design Basics
 
 ---
 
 ## 💼 Projects
 
 ### 🌐 Spring Boot REST API
-> A RESTful API for managing a library system, built with Spring Boot and secured with JWT authentication.
+> RESTful API for library system with JWT authentication
 
-🔹 Features:
-- User Authentication (JWT)
-- CRUD Operations
-- MySQL Database Integration
+- 🔐 JWT Authentication  
+- 📦 CRUD Operations  
+- 🗄 MySQL Integration  
 
 🔗 https://github.com/MOHANX-0001/library-management-springboot
 
 ---
 
 ### 📚 Library Management System
-> A full-featured library management system with user auth, book tracking, and fine calculation — built in Java.
+> Java-based system for managing books & users
 
-🔹 Features:
-- User authentication
-- Book issue/return system
-- Fine calculation
-- Transaction tracking
+- User authentication  
+- Book issue/return  
+- Fine calculation  
 
 🔗 https://github.com/MOHANX-0001/Library-Management-System
 
 ---
 
 ### ✅ Java To-Do List App
-> A console-based task manager with advanced productivity features, built purely in Java.
+> Advanced console-based task manager
 
-🔹 Features:
-- Task priority & categories
-- Search & filtering
-- Statistics tracking
-- File persistence
+- Priority & categories  
+- Search & filtering  
+- File persistence  
 
 🔗 https://github.com/MOHANX-0001/Java-ToDo-List-App
 
 ---
 
 ### 🎓 Student Management System
-> A Java console app to manage student records with full CRUD and search functionality.
-
-🔹 Features:
-- Add / update / delete students
-- Search functionality
-- Clean console UI
+> Manage student records with CRUD operations
 
 🔗 https://github.com/MOHANX-0001/Student-Management-System
 
 ---
 
 ### 🏦 Java Bank System
-> A banking simulation system demonstrating core account management and transaction handling in Java.
-
-🔹 Features:
-- Deposit & withdrawal
-- Account management
-- Transaction handling
+> Banking simulation system
 
 🔗 https://github.com/MOHANX-0001/Java-Bank-System
 
 ---
 
 ### 🌍 Portfolio Website
-> My personal portfolio showcasing my projects and skills.
-
 🔗 https://mohanx-0001.github.io/portfolio/
 
 ---
 
-## 📫 Contact Me
-📧 Email: mohanpawarx1010@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/mohan-pawar-dev/
+## 📫 Connect With Me
+<p align="center">
+  <a href="mailto:mohanpawarx1010@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/mohan-pawar-dev/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
 ## 🐍 Contribution Snake
 ![Snake animation](https://raw.githubusercontent.com/MOHANX-0001/github-contribution-snake/output/github-contribution-grid-snake.svg)
+
+---
+
+## 👀 Profile Views
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MOHANX-0001&color=blue" />
+</p>
 
 ---
 
