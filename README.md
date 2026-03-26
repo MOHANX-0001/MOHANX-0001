@@ -48,6 +48,8 @@
   <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MOHANX-0001&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
 
+---
+
 <p align="center">
   <img width="60%" src="https://streak-stats.demolab.com?user=MOHANX-0001&theme=tokyonight&hide_border=true" />
 </p>
