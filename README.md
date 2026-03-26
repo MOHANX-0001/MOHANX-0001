@@ -1,14 +1,12 @@
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:1f4037,100:99f2c8&height=200&section=header&text=Mohan%20Pawar&fontSize=40&fontColor=ffffff)
 
 # 👋 Hi, I'm Mohan Pawar
-
-💻 Java Backend Developer | 🎓 Computer Science Student
+💻 Java Backend Developer | 🎓 Computer Science Student  
 🚀 Passionate about building scalable, real-world applications
 
 ---
 
 ## 🧭 About Me
-
 - ☕ Currently focused on **Java Backend Development**
 - 🧠 Strong in **Object-Oriented Programming (OOP)**
 - 🛠 Building real-world projects to sharpen backend skills
@@ -18,26 +16,25 @@
 ---
 
 ## 🧰 Tech Stack
-
 ![Tech Stack](https://skillicons.dev/icons?i=java,python,js,html,css,mysql,git,github,vscode)
 
 ---
 
 ## 📊 GitHub Stats
 
-![Mohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=MOHANX-0001&show_icons=true&theme=tokyonight&cache_seconds=1800)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MOHANX-0001&layout=compact&theme=tokyonight&cache_seconds=1800)
+![Mohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=MOHANX-0001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MOHANX-0001&layout=compact&theme=tokyonight&hide_border=truestreak-stats.demolab.com)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=MOHANX-0001&theme=tokyonight&hide_border=true)
 
 ---
 
 ## 📈 Contribution Activity
-
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=MOHANX-0001&theme=tokyo-night)
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=MOHANX-0001&theme=tokyo-night&hide_border=true)
 
 ---
 
 ## 📚 Currently Learning
-
 - Data Structures & Algorithms (DSA)
 - Java Backend Development (Spring Boot 🚀)
 
@@ -115,14 +112,12 @@
 ---
 
 ## 📫 Contact Me
-
-📧 Email: mohanpawarx1010@gmail.com
-🔗 LinkedIn:  www.linkedin.com/in/mohan-pawar-dev
+📧 Email: mohanpawarx1010@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/mohan-pawar-dev/
 
 ---
 
 ## 🐍 Contribution Snake
-
 ![Snake animation](https://raw.githubusercontent.com/MOHANX-0001/github-contribution-snake/output/github-contribution-grid-snake.svg)
 
 ---
