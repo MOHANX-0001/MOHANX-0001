@@ -111,11 +111,9 @@ React.js · Node.js · Express · PostgreSQL · Prisma ORM · JWT · Recharts ·
 
 ---
 
-## 🐍 Contribution Snake
+## 📈 Contribution Graph
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MOHANX-0001/github-contribution-snake/output/github-contribution-grid-snake-dark.svg" />
-</p>
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=MOHANX-0001&theme=tokyo-night&hide_border=true&color=f97316&line=f97316&point=ffffff)
 
 ---
 
