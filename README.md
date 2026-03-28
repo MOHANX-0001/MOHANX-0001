@@ -105,10 +105,6 @@ React.js · Node.js · Express · PostgreSQL · Prisma ORM · JWT · Recharts ·
   <img width="70%" src="https://streak-stats.demolab.com?user=MOHANX-0001&theme=tokyonight&hide_border=true&fire=f97316&ring=f97316&currStreakLabel=f97316" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MOHANX-0001&theme=tokyo-night&hide_border=true&color=f97316&line=f97316&point=ffffff" />
-</p>
-
 ---
 
 ## 📈 Contribution Graph
